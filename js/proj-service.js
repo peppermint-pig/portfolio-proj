@@ -18,7 +18,7 @@ var gProjs = [
         desc: 'rappin\' surfer not back, avenge deaths crisitunity milhousing that\'s why your robot never worked stinkables bumbled-bee well, that\'s the end of me',
         url: 'https://www.imdb.com/title/tt0099685/',
         publishedAt: Date.now(),
-        labels: ['Mafia', 'Crime']
+        labels: ['Mafia', 'Crime', 'Police']
     },
 
     {
@@ -38,7 +38,7 @@ var gProjs = [
         desc: 'like... all those people in jail smendler stinkables dirty, maybe. dangerous, hardly. eat my shirt scientician dickety they tried that in the movies and it didn\'t work zazz capdabbler',
         url: 'https://www.universalorlando.com/web/en/us/things-to-do/dining/lard-lad-donuts',
         publishedAt: Date.now(),
-        labels: ['Police', 'Cop', 'Leader']
+        labels: ['Donut', 'Coffee', 'Leader']
     },
 
 
@@ -49,7 +49,7 @@ var gProjs = [
         desc: 'like... all those people in jail smendler stinkables dirty, maybe. dangerous, hardly. eat my shirt scientician dickety they tried that in the movies and it didn\'t work zazz capdabbler',
         url: 'https://youtu.be/oK4U9bgHk9Q',
         publishedAt: Date.now(),
-        labels: ['Press', 'Media', 'Leader']
+        labels: ['Press', 'Media', 'Cop']
     },
 
     {
