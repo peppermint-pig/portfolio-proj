@@ -84,7 +84,8 @@ body {
 .offcanvas-aside {
     position: fixed;
     height: 100%;
-    background: red;
+    background: #222222;
+    color: #f1f1f1;
     width: 80vw;
     right: -80vw;
     z-index: 10;
